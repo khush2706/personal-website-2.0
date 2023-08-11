@@ -22,16 +22,19 @@ const AboutCard = () => {
         <Separator />
         <CardRole>software developer</CardRole>
         <AboutCardFooter>
-          <Link to="https://www.linkedin.com/in/khush2706/">
+          <Link
+            to="https://www.linkedin.com/in/khush2706/"
+            target="_blank"
+            rel="noopener noreferrer">
             <Linkedin width="28" height="28" />
           </Link>
-          <Link to="https://github.com/khush2706">
+          <Link to="https://github.com/khush2706" target="_blank" rel="noopener noreferrer">
             <Github width="28" height="28" />
           </Link>
-          <Link to="https://dev.to/khush2706">
+          <Link to="https://dev.to/khush2706" target="_blank" rel="noopener noreferrer">
             <Dev width="28" height="28" />
           </Link>
-          <Link to="https://twitter.com/khush__2706">
+          <Link to="https://twitter.com/khush__2706" target="_blank" rel="noopener noreferrer">
             <Twitter width="28" height="28" />
           </Link>
           <Link to="https://mail.google.com/mail/?view=cm&fs=1&to=kc220313@gmail.com">

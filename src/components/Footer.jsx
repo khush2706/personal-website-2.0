@@ -33,16 +33,19 @@ const Footer = () => {
               <strong>Follow</strong>
             </p>
             <IconsContainer>
-              <Link to="https://www.linkedin.com/in/khush2706/">
+              <Link
+                to="https://www.linkedin.com/in/khush2706/"
+                target="_blank"
+                rel="noopener noreferrer">
                 <Linkedin width="22" height="22" />
               </Link>
-              <Link to="https://github.com/khush2706">
+              <Link to="https://github.com/khush2706" target="_blank" rel="noopener noreferrer">
                 <Github width="22" height="22" />
               </Link>
-              <Link to="https://dev.to/khush2706">
+              <Link to="https://dev.to/khush2706" target="_blank" rel="noopener noreferrer">
                 <Dev width="22" height="22" />
               </Link>
-              <Link to="https://twitter.com/khush__2706">
+              <Link to="https://twitter.com/khush__2706" target="_blank" rel="noopener noreferrer">
                 <Twitter width="22" height="22" />
               </Link>
             </IconsContainer>

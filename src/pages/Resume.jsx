@@ -30,7 +30,9 @@ const Resume = () => {
           <SubHeading>
             <h2>Experience</h2>
             <StyledButton width="150px" size="10px">
-              <a href={resumeLink}>Download CV</a>
+              <a href={resumeLink} target="_blank" rel="noopener noreferrer">
+                Download CV
+              </a>
             </StyledButton>
           </SubHeading>
           {experience?.map((data, index) => {
