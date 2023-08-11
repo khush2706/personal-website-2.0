@@ -11,8 +11,7 @@ const Resume = () => {
   const [experience, setExperience] = useState(null)
   const [community, setCommunity] = useState(null)
   const [achivement, setAchivement] = useState(null)
-  const resumeLink =
-    'https://drive.google.com/file/d/1eFKYV9mKw9N4dgN5RxJXf_P-mNDkYLtC/view?usp=sharing'
+  const resumeLink = 'https://resume.sabkhush.tech'
 
   useEffect(() => {
     setExperience(experiences)
