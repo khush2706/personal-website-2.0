@@ -1,0 +1,16 @@
+[
+    {
+        "from": "July 2022",
+        "to": "July 2023",
+        "company": "Google Developer Student Clubs",
+        "position": "Lead",
+        "experience": [
+            "Lead a group project with 7 members to build a React UI library using styled components and storybook.",
+            "Conducted a four-day long hands-on workshop on Jetpack Compose with 300+ participants.",
+            "Organised a three-day long hands-on workshop on Frontend Web Development using HTML, CSS and JS",
+            "Organised a session on Hacktoberfest 2022 and maintained three open-source repositories with 200+ contributors.",
+            "Organised a webinar on Women in Tech with 60+ participants"
+        ],
+        "id": 1
+    }
+]

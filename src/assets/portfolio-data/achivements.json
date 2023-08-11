@@ -1,0 +1,20 @@
+[
+    {
+        "year": "2021",
+        "organization": "Winter of Code 2.0 by GDSC IIIT Kalyani",
+        "for": [
+            "Was one of the top 20 contributors in a pool of 100+ people"
+        ],
+        "id": 2
+    },
+    {
+        "year": "2021",
+        "organization": "GirlScript",
+        "for": [
+            "Made quality documentation contribution in 'Web Development with HTML, CSS, JS and Bootstrap' Domain in GirlScript Winter of Code",
+            "Communicated with mentors regularly and learned to make quality PRs.",
+            "Was listed in the Top 10 Contributors"
+        ],
+        "id": 1
+    }
+]

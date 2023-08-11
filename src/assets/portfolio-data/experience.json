@@ -1,0 +1,36 @@
+[
+    {
+        "from": "May 2023",
+        "to": "July 2023",
+        "company": "Quinbay",
+        "position": "Software Engineering Intern",
+        "experience": [
+            "Implemented a three-step financial wizard feature using Vue and VueX, streamlining the acquisition and management of company’s financial data. Led development and integrated data validation for accuracy and reliability.",
+            "Enhanced login flow with specialized functionality for Board of Directors members. Implemented automatic redirection to invite page for pending invitations."
+        ],
+        "id": 3
+    },
+    {
+        "from": "June 2022",
+        "to": "July 2022",
+        "company": "miniOrange",
+        "position": "Software Engineering Intern",
+        "experience": [
+            "Developed an application to seamlessly display user information from their Metamask wallet enhancing accessibility and convenience for users.",
+            "Engineered a streamlined one-click login flow, leveraging NextJS, Metamask API, Supabase, and ethers.js, to facilitate a secure and efficient authentication process.",
+            "Implemented advanced cryptographic techniques, including nonce and JWT, to generate digital signatures, ensuring the integrity and authenticity of user transactions."
+        ],
+        "id": 2
+    },
+    {
+        "from": "Dec 2021",
+        "to": "Jan 2022",
+        "company": "Winter of Code 2.0 - Moja Global",
+        "position": "Open Source Contributor",
+        "experience": [
+            "Worked on the complete UI overhaul for the Community Website by using React and Docusaurus to elevate the overall user experience. Also optimized performance and accessibility, resulting in a near-perfect score of nearly 100 on Google’s Lighthouse evaluation.",
+            "Optimized and Refactored the Roadmaps page and Footer to adapt to a modern design using ReactJS"
+        ],
+        "id": 1
+    }
+]

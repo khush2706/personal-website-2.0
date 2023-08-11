@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Sumedha",
+        "githubLink": "https://github.com/khush2706/SIH-parent",
+        "techstacks": "ReactJS, JavaScript, JWT, Parcel, Context API, React Router V6",
+        "description": [
+            "Finalist project under Smart India Hackathon 2022.",
+            "Developed a progressive web app (PWA) using React, designed to aid parents in tracking and supporting the holistic growth of their children.",
+            "Handled API integration alongside handling authentication using JSON Web Token, React Router V6 and Context API.",
+            "Implemented two separate platforms within the app: one for parents and another for children, allowing parents to create accounts for their children and assign tasks based on their developmental level.",
+            "Child's platform features brain quizzes, AI-guided yoga. Parent's platform enables parents to track their child's progress including overall percentiles, graphical representations of completed tasks, booking appointments with pediatricians, growth milestones, etc."
+        ],
+        "id": 5
+    },
+    {
+        "name": "FullHouse",
+        "githubLink": "https://github.com/khush2706/fullhouse",
+        "techstacks": "ReactJS, Youtube Data Api, Styled Components, NodeJS, MongoDB, ExpressJS, Mongoose, Socket.io, JWT",
+        "description": [
+            "Developed a dynamic app that enables users to create and join rooms for synchronous YouTube video watching and real-time chatting.",
+            "Implemented secure user authentication using JSON Web Token (JWT), ensuring a personalized and secure experience for each user.",
+            "Leveraged Socket.io to synchronize YouTube video playback across multiple users, creating a shared viewing experience within the app.",
+            "Integrated Socket.io to enable real-time chat functionality, allowing users in the same room to interact and communicate while watching videos together.",
+            "Utilized MongoDB, Mongoose, and Node.js to efficiently store and retrieve user data, ensuring seamless data management within the app."
+        ],
+        "id": 4
+    },
+    {
+        "name": "PomoTimer",
+        "githubLink": "https://github.com/khush2706/PomoTimer",
+        "techstacks": "ReactJS, Youtube Data Api V3, Tailwind CSS, DaisyUI",
+        "description": [
+            "Developed an application focusing on productivity and physical health using React.",
+            "Created a simple and configurable Pomodoro timer to provide a reliable way to track productivity using the Pomodoro Technique.",
+            "Used Youtube API to provide customised exercise videos at the end of each work cycle.",
+            "Implemented frontend catching to reduce API calls and smoothen the user experience.",
+            "Created intuitive and visually-pleasing UI using Tailwind CSS and DaisyUI."
+        ],
+        "id": 3
+    },
+    {
+        "name": "Finance Buddy",
+        "githubLink": "https://github.com/khush2706/Finance-Buddy",
+        "techstacks": "ReactJS, JSON Web Token, CSS, HTML",
+        "description": [
+            "Developed a web-based financial literacy tool for the younger generation.",
+            "Made use of a gamified approach with a lesson-based curriculum and scored quizzes on the various financial domains.",
+            "Created a parents dashboard where they can connect with their children, keep a real-time track of their kids progress and curate quizzes and lessons for them.",
+            "Worked on - Developing the front-end of the application, API integration, and authentication using JSON Web Token"
+        ],
+        "id": 2
+    },
+    {
+        "name": "JavaScript Projects",
+        "githubLink": "https://github.com/khush2706/javascript-projects",
+        "techstacks": "JavaScript, HTML, CSS, Bootstrap",
+        "description": [
+            "It is an open-source collection of over 23 JavaScript projects.",
+            "These projects are developed keeping in mind the latest ES6 Javascript features and conventions. The difficulty of the projects varies from easy to medium."
+        ],
+        "id": 1
+    }
+]
