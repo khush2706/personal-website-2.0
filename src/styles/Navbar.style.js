@@ -170,4 +170,8 @@ export const MobileNavLinks = styled.div`
     animation: bottom_up 0.9s;
     text-decoration: none;
   }
+
+  & .active {
+    border-bottom: 2px solid rgb(0, 80, 225);
+  }
 `
