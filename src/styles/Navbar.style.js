@@ -126,8 +126,19 @@ export const StyledMobileNav = styled.div`
     transform: rotate(45deg) translate(-0.5px, -8.6px) scale(0.8);
   }
 
-  @media ${devices.tablet} {
+  @media ${devices.laptop} {
     display: flex;
+    & .open-nav-links {
+      justify-content: flex-start;
+      padding-top: 300px;
+    }
+  }
+
+  @media ${devices.mobileL} {
+    & .open-nav-links {
+      padding-top: 0;
+      justify-content: center;
+    }
   }
 `
 

@@ -6,7 +6,7 @@ export const StyledFooter = styled(StyledNavbarDesktop)`
   font-size: 14px;
   border-top: 0.5px solid #dde;
   border-bottom: none;
-  @media ${devices.tablet} {
+  @media ${devices.laptop} {
     padding: 15px 40px;
     border-top: 0.5px solid #dde;
     display: block;
