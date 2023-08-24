@@ -3,9 +3,9 @@ import { GeometricShape } from '../styles/Containers.style'
 import { Heading, ResumeContent, ResumeWrapper, SubHeading } from '../styles/Resume.style'
 import ResumeCard from '../components/ResumeCard'
 import { useState, useEffect } from 'react'
-import experiences from '../assets/portfolio-data/experience.json'
-import communities from '../assets/portfolio-data/community.json'
-import achivements from '../assets/portfolio-data/achivements.json'
+import experiences from '../data/experience.json'
+import communities from '../data/community.json'
+import achivements from '../data/achivements.json'
 
 const Resume = () => {
   const [experience, setExperience] = useState(null)

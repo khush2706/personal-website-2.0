@@ -1,7 +1,7 @@
 import { Heading } from '../styles/Resume.style'
 import { GeometricShape } from '../styles/Containers.style'
 import ProjectCard from '../components/ProjectCard'
-import projects from '../assets/portfolio-data/projects.json'
+import projects from '../data/projects.json'
 import { useState, useEffect } from 'react'
 import { ProjectWrapper, ProjectsContent } from '../styles/Project.style'
 
