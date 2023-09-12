@@ -10,12 +10,12 @@
             "Implemented two separate platforms within the app: one for parents and another for children, allowing parents to create accounts for their children and assign tasks based on their developmental level.",
             "Child's platform features brain quizzes, AI-guided yoga. Parent's platform enables parents to track their child's progress including overall percentiles, graphical representations of completed tasks, booking appointments with pediatricians, growth milestones, etc."
         ],
-        "id": 5
+        "id": 1
     },
     {
         "name": "FullHouse",
         "githubLink": "https://github.com/khush2706/fullhouse",
-        "techstacks": "ReactJS, Youtube Data Api, Styled Components, NodeJS, MongoDB, ExpressJS, Mongoose, Socket.io, JWT",
+        "techstacks": "ReactJS, Youtube Data Api, Styled Components, NodeJS, MongoDB, ExpressJS, Mongoose, Redis, Socket.io, JWT",
         "description": [
             "Developed a dynamic app that enables users to create and join rooms for synchronous YouTube video watching and real-time chatting.",
             "Implemented secure user authentication using JSON Web Token (JWT), ensuring a personalized and secure experience for each user.",
@@ -23,7 +23,7 @@
             "Integrated Socket.io to enable real-time chat functionality, allowing users in the same room to interact and communicate while watching videos together.",
             "Utilized MongoDB, Mongoose, and Node.js to efficiently store and retrieve user data, ensuring seamless data management within the app."
         ],
-        "id": 4
+        "id": 2
     },
     {
         "name": "PomoTimer",
@@ -48,7 +48,7 @@
             "Created a parents dashboard where they can connect with their children, keep a real-time track of their kids progress and curate quizzes and lessons for them.",
             "Worked on - Developing the front-end of the application, API integration, and authentication using JSON Web Token"
         ],
-        "id": 2
+        "id": 4
     },
     {
         "name": "JavaScript Projects",
@@ -58,6 +58,34 @@
             "It is an open-source collection of over 23 JavaScript projects.",
             "These projects are developed keeping in mind the latest ES6 Javascript features and conventions. The difficulty of the projects varies from easy to medium."
         ],
-        "id": 1
+        "id": 5
+    },
+    {
+        "name": "Portfolio Website",
+        "githubLink": "https://github.com/khush2706/personal-website",
+        "techstacks": "ReactJS",
+        "description": [
+            "Fully responsive portfolio website made using ReactJS."
+        ],
+        "id": 6  
+    },
+    {
+        "name": "Portfolio Website 2.0",
+        "githubLink": "https://github.com/khush2706/personal-website-2.0",
+        "techstacks": "ReactJS, Styled Components, EmailJS",
+        "description": [
+            "Second version of portfolio website made using ReactJS, styled-components and EmailJS"
+        ],
+        "id": 7  
+    },
+    {
+        "name": "Personal Portfolio Template GDSC",
+        "githubLink": "https://github.com/GDSC-RTU/personal-portfolio",
+        "techstacks": "HTML, CSS, Javascript, Bootstrap",
+        "description": [
+            "Contributed to a personal portfolio project by GDSC RTU.",
+            "Made major contributions by making The contact page, The blogs page and a responsive navbar."
+        ],
+        "id": 8  
     }
 ]
