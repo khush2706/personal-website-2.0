@@ -1,7 +1,7 @@
 import Dev from './Icons/Dev'
 import Github from './Icons/Github'
 import Linkedin from './Icons/Linkedin'
-import Twitter from './Icons/Twitter'
+// import Twitter from './Icons/Twitter'
 import {
   IconsContainer,
   LicenceContainer,
@@ -45,9 +45,9 @@ const Footer = () => {
               <Link to="https://dev.to/khush2706" target="_blank" rel="noopener noreferrer">
                 <Dev width="22" height="22" />
               </Link>
-              <Link to="https://twitter.com/khush__2706" target="_blank" rel="noopener noreferrer">
+              {/* <Link to="https://twitter.com/khush__2706" target="_blank" rel="noopener noreferrer">
                 <Twitter width="22" height="22" />
-              </Link>
+              </Link> */}
             </IconsContainer>
           </SocialItem>
         </SocialContainer>
